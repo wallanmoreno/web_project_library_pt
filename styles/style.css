@@ -25,8 +25,8 @@
 }
 
 .nav__logo {
-  width: 105px;
-  height: 39px;
+  width: 80px;
+  height: 58px;
 }
 
 .nav__links {
@@ -115,7 +115,7 @@
 
 .staff__cards {
   max-width: 760px;
-  margin: 60px auto 0;
+  margin: 68px auto 0;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
